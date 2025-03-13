@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "utils4work"
+version = "0.1.0"
+description = "multi-functional toobkit"
+authors = ["Shiyuan <lizhicuo2020@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+py-zerox = "^0.0.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
